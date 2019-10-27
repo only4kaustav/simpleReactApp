@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            My First React App using nodejs modified.
+            My First React App using nodejs.
           </p>
           <a
             className="App-link"
